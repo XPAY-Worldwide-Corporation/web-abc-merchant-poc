@@ -1,0 +1,60 @@
+.space {
+	margin-bottom: 20px;
+}
+
+.iconRelative {
+	position: relative;
+}
+
+.fas,
+.far {
+	position: absolute;
+	bottom: 10px;
+	left: 15px;
+	font-size: 15px;
+	color: #555555;
+}
+
+#cardnumber {
+	width: 100%;
+	padding-left: 50px;
+}
+
+#expirationdate {
+	width: 30%;
+	padding: 0;
+}
+
+#securitycode {
+	width: 20%;
+	padding: 0;
+}
+
+#currency {
+	padding: 13px 0 13px 10px;
+	border: none;
+	outline: none;
+	font-size: 15px;
+	color: #555555;
+	background-color: #ffffff;
+}
+
+.input {
+	padding: 8px 8px 8px 50px;
+	width: 100%;
+	border: 1px solid #dddcdc;
+	outline: none;
+	font-size: 15px;
+	color: #555555;
+	background-color: #ffffff;
+}
+
+.creditCardInput {
+	padding: 8px 8px 8px 50px;
+	width: 100%;
+	border: none;
+	outline: none;
+	font-size: 15px;
+	color: #555555;
+	background-color: #ffffff;
+}
